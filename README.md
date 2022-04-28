@@ -1,12 +1,6 @@
 # Add Health Longitudinal Study Analysis
 
-"The National Longitudinal Study of Adolescent to Adult Health (Add Health) is a longitudinal study of a nationally representative sample of over 20,000 adolescents who were in grades 7-12 during the 1994-95 school year, and have been followed for five waves to date, most recently in 2016-18. Over the years, Add Health has collected rich demographic, social, familial, socioeconomic, behavioral, psychosocial, cognitive, and health survey data from participants and their parents" [(Add Health)](#https://addhealth.cpc.unc.edu/).
-## Table of Contents
-* [Motivation](#Motivation)
-* [Technologies](#Technologies)
-* [Data Questions](#Data-Questions)
-* [Data Sources](#Data-Sources)
-* [Link to the Dashboard](#Link-to-the-Dashboard)
+"The National Longitudinal Study of Adolescent to Adult Health (Add Health) is a longitudinal study of a nationally representative sample of over 20,000 adolescents who were in grades 7-12 during the 1994-95 school year, and have been followed for five waves to date, most recently in 2016-18. Over the years, Add Health has collected rich demographic, social, familial, socioeconomic, behavioral, psychosocial, cognitive, and health survey data from participants and their parents" [(Add Health)](https://addhealth.cpc.unc.edu/).
 
 ## Motivation
 When I was a freshman in college, advisors liked to ask whether we felt like we belonged at the school and among our peers.
@@ -20,13 +14,13 @@ I wanted to explore whether simply feeling connected to peers and family could i
 ## Technologies
 - `Python`
   * `Jupyter Notebook`: Used to perform my EDA and in-depth analysis.
-- `Tableau`: Used to create an interactive dashboard that can be accessed [here](#https://public.tableau.com/views/CapstonePresentation_16511648876340/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+- `Tableau`: Used to create an interactive dashboard that can be accessed [here](https://public.tableau.com/views/CapstonePresentation_16511648876340/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 - `Excel`: Used to access my data sources, which were available in a tsv and csv format.
 
 ## Data Sources
 
 - [Add Health](https://www.icpsr.umich.edu/web/ICPSR/studies/21600?archive=ICPSR&q=21600)
-- [Educational Attainment Census Data](#https://www.census.gov/data/tables/2008/demo/educational-attainment/cps-detailed-tables.html)
+- [Educational Attainment Census Data](https://www.census.gov/data/tables/2008/demo/educational-attainment/cps-detailed-tables.html)
 
 ## Data Questions
 - Does having a connection to peers and family correlate to academic and career success?
@@ -43,4 +37,4 @@ of participants who had responded to each wave of the study. When doing analyses
 individuals who had participated in the entire study.
 
 ## Link to the Dashboard
-You can check out my dashboard [here](#https://public.tableau.com/views/CapstonePresentation_16511648876340/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)!
+You can check out my dashboard [here](https://public.tableau.com/views/CapstonePresentation_16511648876340/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)!
